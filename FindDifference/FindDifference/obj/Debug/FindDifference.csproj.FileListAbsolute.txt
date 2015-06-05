@@ -1,0 +1,9 @@
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\bin\Debug\FindDifference.exe.config
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\bin\Debug\FindDifference.exe
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\bin\Debug\FindDifference.pdb
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FindDifference.csprojResolveAssemblyReference.cache
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FileDialog.Form1.resources
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FindDifference.Properties.Resources.resources
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FindDifference.csproj.GenerateResource.Cache
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FindDifference.exe
+C:\SVN\Innovation\FindDifference\FindDifference\FindDifference\obj\Debug\FindDifference.pdb
